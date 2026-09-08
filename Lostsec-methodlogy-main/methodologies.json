@@ -1,0 +1,60 @@
+{
+    "methodologies": [
+        {
+            "id": "recon-methodology",
+            "title": "Advanced Recon Methodology",
+            "path": "methodologies/recon-methodology.json",
+            "icon": "bx bx-radar",
+            "tags": ["methodology", "recon"]
+        },
+        {
+            "id": "fetch-through-api",
+            "title": "Gather assets through API",
+            "path": "methodologies/fetch-through-api.json",
+            "icon": "bx bx-code-alt",
+            "tags": ["methodology", "recon", "api"]
+        },
+        {
+            "id": "ssti-payloads",
+            "title": "SSTI Payloads",
+            "path": "methodologies/ssti-payloads.json",
+            "icon": "bx bx-code-curly",
+            "tags": ["payloads", "injection"]
+        },
+        {
+            "id": "crlf-injection",
+            "title": "CRLF Injection",
+            "path": "methodologies/crlf-injection.json",
+            "icon": "bx bx-error",
+            "tags": ["payloads", "injection", "headers"]
+        },
+        {
+            "id": "sqli-methodology",
+            "title": "SQL Injection Methodology",
+            "path": "methodologies/sqli-methodology.json",
+            "icon": "bx bx-data",
+            "tags": ["methodology", "payloads", "sqli"]
+        },
+        {
+            "id": "xss-waf-bypass",
+            "title": "XSS WAF Bypass Methodology",
+            "path": "methodologies/xss-waf-bypass.json",
+            "icon": "bx bx-shield-quarter",
+            "tags": ["xss", "bypass", "payloads"]
+        },
+        {
+            "id": "sqli-xor-waf-bypass",
+            "title": "SQL Injection XOR WAF Bypass",
+            "path": "methodologies/sqli-xor-waf-bypass.json",
+            "icon": "bx bx-code-alt",
+            "tags": ["sqli", "xor", "payloads"]
+        },
+        {
+            "id": "google-dorks",
+            "title": "Advanced Google Dorks",
+            "path": "methodologies/google-dorks.json",
+            "icon": "bx bx-search-alt",
+            "tags": ["google-hacking", "google-dork"]
+        }
+    ]
+}
